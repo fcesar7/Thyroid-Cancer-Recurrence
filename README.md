@@ -1,4 +1,4 @@
-# Thyroid Cance Recurrence
+# Thyroid Cancer Recurrence
 Classification Model to Predict Thyroid Cancer Recurrence
 
 Steps:
